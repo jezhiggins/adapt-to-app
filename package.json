@@ -10,6 +10,7 @@
     "cordova-icon": "^0.9.1",
     "extract-zip": "^1.6.0",
     "fs-extra": "^2.1.2",
+    "vimeo-downloader": "^1.0.3",
     "wget-improved": "1.4.0"
   },
   "devDependencies": {},
